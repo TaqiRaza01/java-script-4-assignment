@@ -1,0 +1,30 @@
+.btn{
+    margin-bottom: 5px
+}
+
+
+
+@media screen and (min-width: 853px) and (max-width: 1280px) {
+#buttons-of-front{
+    margin: 0 auto;
+}
+}
+
+#buttons-of-front .btn{
+    width: 218px;
+}
+
+
+
+#inputText{
+    height: 99px;
+    display: flex;
+}
+
+#output{
+    min-height: 174px;
+}
+#cities{
+    font-size: 19px;
+    letter-spacing: 1px;
+}
