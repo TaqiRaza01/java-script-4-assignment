@@ -21,6 +21,23 @@
     display: flex;
 }
 
+/* clear button of inputt */
+
+
+#clrBtn{
+    margin-top: 6px;
+}
+#clrBtn:hover {
+    color: rgb(0, 0, 0);
+    border: 1px solid rgb(255, 0, 0);
+    background-color: rgb(179, 244, 244);
+}
+#input:hover{
+border-width: 3px;
+
+}
+/*  */
+
 #output{
     min-height: 174px;
 }
